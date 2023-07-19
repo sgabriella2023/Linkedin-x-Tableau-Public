@@ -28,8 +28,9 @@ Software: Visual Studio Code 1.80.0, Tableau Public, Microsoft Excel, Github, Gi
 
 
 
-Medium article:https://medium.com/@sgabriella2023/linkedin-analytics-x-tableau-public-tutorial-fc507ad50935
-Tableau Public dashboard: https://public.tableau.com/app/profile/sgabriella2023/viz/VizzDemonstration/LIConnectionsoverTime
+* Medium article: https://medium.com/@sgabriella2023/linkedin-analytics-x-tableau-public-tutorial-fc507ad50935
+
+* Tableau Public dashboard: https://public.tableau.com/app/profile/sgabriella2023/viz/VizzDemonstration/LIConnectionsoverTime
 
 
 # Contact
