@@ -32,7 +32,7 @@ Medium article:https://medium.com/@sgabriella2023/linkedin-analytics-x-tableau-p
 Tableau Public dashboard: https://public.tableau.com/app/profile/sgabriella2023/viz/VizzDemonstration/LIConnectionsoverTime
 
 
-#Contact
+# Contact
 
 
 
